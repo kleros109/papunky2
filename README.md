@@ -1,6 +1,6 @@
 # RetroWave Radio Assistant
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/kleros109/papunky2)
 
 An AI-powered music research assistant that generates radio show commentary with a stunning, nostalgic retro-themed UI.
 
@@ -101,7 +101,7 @@ This project is designed for seamless deployment to Cloudflare Pages.
 
 Alternatively, deploy directly from your GitHub repository:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/kleros109/papunky2)
 
 ## 📄 License
 
